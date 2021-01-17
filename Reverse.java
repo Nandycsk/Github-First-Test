@@ -19,5 +19,6 @@ class ReverseString {
 
 		// print reversed String
 		System.out.println(input1);
+		System.out.println("Test Success");
 	}
 }
